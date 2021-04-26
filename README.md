@@ -1,5 +1,5 @@
 # MathBook
-This is the math book design which didn't get qualified. It was made in (Paint.NET)[https://getpaint.net]
+This is the math book design which didn't get qualified. It was made in [Paint.NET](https://getpaint.net)
 
 ## Folders
 **Original** -- This folder includes the original project files, tests, and others.
